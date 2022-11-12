@@ -23,6 +23,8 @@ embed包提供对嵌入在运行的 Go 程序中的文件的访问。这是Go 1.
 - https://github.com/ExpLangcn/Aopo
 - https://github.com/IceMoon1995/jray
 - https://github.com/whitesource/spring4shell-detect
+- https://github.com/godspeedcurry/godscan
+- https://github.com/lcvvvv/kscan
 
 ## 03-参考资源
 
@@ -32,3 +34,4 @@ embed包提供对嵌入在运行的 Go 程序中的文件的访问。这是Go 1.
 - https://colobu.com/2021/01/17/go-embed-tutorial/
 - https://soulteary.com/2022/01/15/explain-the-golang-resource-embedding-solution-part-1.html
 - https://github.red/go-embed
+- https://learnku.com/articles/60054

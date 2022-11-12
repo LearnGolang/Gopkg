@@ -12,12 +12,10 @@ import (
 	"fmt"
 )
 
-//go:embed pocs
-var ftest2 embed.FS
+//go:embed fingerprint.txt
+var ff embed.FS
 
 func main() {
-	data, _ := ftest2.ReadFile("pocs/test1.yaml")
-	fmt.Println(string(data))
-	data, _ = ftest2.ReadFile("pocs/test2.yaml")
+	data, _ := ff.ReadFile("fingerprint.txt")
 	fmt.Println(string(data))
 }
