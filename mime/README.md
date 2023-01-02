@@ -1,1 +1,1 @@
-# [mime](https://pkg.go.dev/mime)
+# [mime](https://pkg.go.dev/mime)-MIME规范
